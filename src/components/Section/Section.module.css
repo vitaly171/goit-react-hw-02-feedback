@@ -1,5 +1,10 @@
 .section {
-  padding: 60px 0;
+  padding: 30px 15px 0 15px;
+  background-color: #05118269;
+  margin: auto;
+  width: 400px;
+  height: 300px;
+  border-radius: 10px;
 }
 
 .section__title {
